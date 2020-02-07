@@ -1,0 +1,27 @@
+.rowHeader {
+   margin: 0;
+   width: 100%;
+   max-width: none;
+}
+
+.colHeader {
+   display: flex;
+   padding: 0;
+   background-color: #40b2e6;
+}
+
+.headerLinks {
+   display: flex;
+   margin: auto ;
+}
+
+
+.headerLinks a {
+   color: #fff;
+   margin: auto 0;
+   padding: 20px 20px;
+}
+
+.headerLinks a:hover {
+   color: #ea592d;
+}

@@ -1,0 +1,21 @@
+.container {
+   display: flex;
+   height: calc(100% - 64px);
+}
+
+.row {
+   max-width: 600px;
+   width: 100%;
+   margin: auto;
+}
+
+form {
+   display: grid;
+}
+
+.card-title {
+   margin: 10px 0;
+   padding-bottom: 10px;
+   border-bottom: 1px solid #333;
+   text-align: center;
+}
