@@ -4,7 +4,7 @@ Módulo de interface para desafio NATI
 
 ## Features
 - Telas de login
-- Telas do CRUD(usuário).
+- Telas do CRUD(Usuário).
 - Telas do CRUD(Curso)
 - Telas do CRUD(Disciplina)
 
