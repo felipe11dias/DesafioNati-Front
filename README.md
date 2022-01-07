@@ -15,7 +15,7 @@ Módulo de interface para desafio NATI
 - [axios](https://github.com/axios/axios)
 - [yarn](https://yarnpkg.com/)
 
-# Funcionamento da Aplicação
+## Funcionamento da Aplicação
 Autenticação foi feita apenas com email de um usuário.
 
 Usuários foram catalogados por 4 tipos de numeros inteiros: 
@@ -25,10 +25,10 @@ Usuários foram catalogados por 4 tipos de numeros inteiros:
 2 - Administrador
 3 - Coordenador
 
-# Banco de Dados - Relações
+## Banco de Dados - Relações
 Banco de dados, usuário tem relação n para n com curso e disciplina, curso tem relação de n para n com usuário e semestre, além de um para n com disciplina, semestre tem relação n para n com curso e disciplina.
 
-# Instalação
+## Instalação
 Faça o clone do projeto no git, canto superior direito no repositório do projeto(Botão 'Code').
 
 Na pasta do projeto utilize do [NPM](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/) para gerenciar as dependências e siga os passos:
