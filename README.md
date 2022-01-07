@@ -1,6 +1,6 @@
 # Desafio NATI - Frontend
 ## Frontend
-Módulo de interface para desafio NATI
+Módulo de interface para desafio NATI - [API Correspondente](https://github.com/felipe11dias/DesafioNati-Back)
 
 ## Features
 - Telas de login
@@ -12,8 +12,8 @@ Módulo de interface para desafio NATI
 ## Tecnologias utilizadas
 - [ReactJS 16.12.0](https://pt-br.reactjs.org/)
 - [Bootstrap 4.4.1](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-- [axios](https://github.com/axios/axios)
-- [yarn](https://yarnpkg.com/)
+- [Axios](https://github.com/axios/axios)
+- [Yarn](https://yarnpkg.com/)
 
 ## Funcionamento da Aplicação
 Autenticação foi feita apenas com email de um usuário.
